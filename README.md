@@ -1,2 +1,2 @@
 # my-website
-this website is created by me
+This is portfolio made using basic HTML,CSS and JavaScript.
